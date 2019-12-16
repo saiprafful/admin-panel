@@ -1,0 +1,58 @@
+
+.kt-subheader{
+    background-color: transparent !important;
+    font-size: 1.8rem !important;
+    margin-bottom: .5rem !important;
+    color: #fff !important;
+}
+
+.kt-subheader .kt-subheader__main .kt-subheader__title{
+    background-color: transparent !important;
+    font-size: 1.8rem !important;
+    margin-bottom: .5rem !important;
+    color: #fff !important;
+}
+
+.kt-datatable.kt-datatable--default>.kt-datatable__table>.kt-datatable__body .kt-datatable__row>.kt-datatable__cell:first-child, .kt-datatable.kt-datatable--default>.kt-datatable__table>.kt-datatable__foot .kt-datatable__row>.kt-datatable__cell:first-child, .kt-datatable.kt-datatable--default>.kt-datatable__table>.kt-datatable__head .kt-datatable__row>.kt-datatable__cell:first-child{
+    padding-left: 25px !important;
+}
+.kt-datatable.kt-datatable--default>.kt-datatable__table>.kt-datatable__head .kt-datatable__row>.kt-datatable__cell{
+    padding: 16px 10px !important;
+}
+.none{
+    display: none;
+}
+.leftopx{
+    left: 0px;
+}
+.width{
+    width: 200px;
+}
+.width_{
+    width: 144px;
+}
+.widtheighty{
+    width: 80px;
+}
+
+.over{
+    overflow: visible; position: relative; width: 80px;
+}
+
+.green{
+    color: green;
+}
+.tra{
+    color: #ea2026;
+}
+
+.body-bg{
+    background-image: url(./assets/imgs/bg-4.jpg); background-position: center top; background-size: 100% 350px;
+ }
+ .fleft{
+    float: left;
+ }
+
+ .bgimg{
+    background-image: url(./assets/imgs/bg-4.jpg) !important;
+ }
