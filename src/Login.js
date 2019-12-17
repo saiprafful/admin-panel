@@ -58,7 +58,9 @@ class Login extends Component {
                               <input className="form-control" value={this.state.password} onChange={this.handleChange} type="password" name="password" placeholder="Password"   />
                            </div>
                            <div className="kt-login__actions">
-                              
+                              <a href="#" className="kt-link kt-login__link-forgot">
+                              Forgot Password ?
+                              </a>
                               <button type="submit" id="kt_login_signin_submit" className="btn btn-primary btn-elevate kt-login__btn-primary" >Sign In</button>
                            </div>
                         </form>
